@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 
 Sou Agilista e um recente Desenvolvedor de Software, formado em Análise e Desenvolvimento de Sistemas, pós-graduando em Product Manager e Residente em TIC Software FullStack pelo Serratec.
-Apaixonado por desenvolvimento de software e gestão de projetos, busco sempre aplicar as melhores práticas de ambos. 
+Apaixonado por desenvolvimento de software e gestão, busco sempre aplicar as melhores práticas de ambos. 
 
 
 
