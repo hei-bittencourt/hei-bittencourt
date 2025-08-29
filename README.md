@@ -1,17 +1,20 @@
-# Olá, eu sou Heitor Bittencourt! 👋
+# Hello, I'm Heitor Bittencourt! 👋
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou Agilista e um recente Desenvolvedor Web, formado em Análise e Desenvolvimento de Sistemas, pós-graduando em Desenvolvimento FullStack Web e Residente em TIC Software FullStack pelo Serratec.
-Apaixonado por desenvolvimento de software e gestão, busco sempre aplicar as melhores práticas de ambos. 
+I am a Web Developer and Agile Practitioner with a degree in Systems Analysis and Development and a completed FullStack Software Residency at Serratec.  
+Currently, I am pursuing a postgraduate degree in FullStack Web Development.  
+
+With a strong background in **Agile methodologies (Scrum, Kanban, Management 3.0)** and **software development**, I specialize in combining efficient team management practices with clean, scalable, and high-impact code.  
+
+Passionate about technology, collaboration, and problem-solving, I aim to deliver solutions that are not only functional but also user-centered and future-proof.  
 
 
-
-## 🌐 Tecnologias mais usadas
+## 🌐 Most Used Technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei-bittencourt&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 <div style="display: flex; justify-content: space-between; width: 50%;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-right: 10px;"/>
@@ -32,14 +35,12 @@ Apaixonado por desenvolvimento de software e gestão, busco sempre aplicar as me
   <img src="https://img.shields.io/badge/Kanban-3E8E41?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban" style="margin-right: 10px;"/>
 </div>
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hei-bittencourt&show_icons=true&theme=darcula)
 
-
-## 📫 Contato
+## 📫 Contact
 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorsbittencourt@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-bittencourt/)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hei_bittencourt/)
-
