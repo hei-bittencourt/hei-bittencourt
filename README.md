@@ -1,10 +1,15 @@
 # Hello, I'm Heitor Bittencourt! 👋
 
-### Full Stack Developer | Agile Practitioner
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6DB33F&width=435&lines=Full+Stack+Developer;Agile+Practitioner;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
 I am a Full Stack Developer holding a degree in **Systems Analysis and Development**, complemented by an intensive **Software Development Residency at Serratec** and a **Postgraduate degree in Full Stack Web Development**. 
 
 What scales my code is my background as an **Agile Practitioner (Scrum, Kanban, Management 3.0)**. I don't just build functional software; I bridge the gap between clean, scalable architecture and efficient, user-centered team delivery.
+
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
@@ -35,8 +40,7 @@ What scales my code is my background as an **Agile Practitioner (Scrum, Kanban, 
 ## 📊 My GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hei-bittencourt&layout=compact&theme=darcula" alt="Top Langs" dynamic="true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hei-bittencourt&show_icons=true&theme=darcula" alt="GitHub Stats" dynamic="true" />
+  <img src="https://streak-stats.demolab.com/?user=hei-bittencourt&theme=darcula&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
